@@ -22,7 +22,7 @@
 | 21  | Implémenter la partie serveur de la page des US du backlog 1: <ul><li>Récupérer les champs envoyés</li><li>exécuter une requête qui prend les champs en paramètre</li><li>Retourner le résultat de la requête </li></ul> | 6 | - |
 | 22 | Création d'un composant angular pour l'ajout d'une US et l'associer a une route | 7 | - |
 | 23 | Implémenter la page d'ajout d'une US (interface graphique)  : <ul><li>Création d'un formulaire d'ajout (numèro,description,Priorité, difficulté )</li></ul> | 7 | - |
-| 24  | Implémenter la page d'ajout d'une US (JS)  : <ul><li>Récupérer les champs du formulaire et les envoyer au serveur</li><li>Affichage d'un message si l'us est ajouté </li></ul> | 7 | - |
+| 24  | Implémenter la page d'ajout d'une US (JS)  : <ul><li>Récupérer le nom du projet et l'envoyer au serveur</li><li>Récupérer les champs du formulaire et les envoyer au serveur</li><li>Affichage d'un message si l'us est ajouté </li></ul> | 7 | - |
 | 25  | Implémenter la partie serveur de la page d'ajout d'une US: <ul><li>Récupérer les champs envoyés</li><li>exécuter une requête qui prend les champs en paramètre</li><li>Retourner le résultat de la requête </li></ul> | 7 | - |
 | 26  | Implémenter la page des US du backlog (JS) 2 : <ul><li>Rendre le champ priopité modifiable pour pouvoir le changer</li><li>Récupérer la nouvelle valeur saisit et l'envoyer au serveur</li></ul> | 8 | - |
 | 27  | Implémenter la partie serveur de la page des US du backlog 2: <ul><li>Récupérer les champs envoyés</li><li>exécuter une requête qui prend les champs en paramètre</li><li>Retourner le résultat de la requête </li></ul> | 8 | - |
@@ -32,11 +32,11 @@
 | 31  | Implémenter la partie serveur de la page  des sprints : <ul><li>Récupérer les champs envoyés</li><li>exécuter une requête qui prend les champs en paramètre</li><li>Retourner le résultat de la requête </li></ul> | 11 | - |
 | 32 | Création d'un composant angular pour les taches d'un sprint et l'associer a une route | 11 | - |
 | 33 | Implémenter la page  des taches d'un sprint (interface graphique)  : <ul><li>Création d'un tableau qui contient: description, numèro user story ciblée, la personne en charge,statut,isE2E</li></ul> | 11 | - |
-| 34  | Implémenter la page   des taches d'un sprint (JS) : <ul><li>Récupérer le numero du sprint et l'envoyer au serveur</li><li>Réception de la liste des taches depuis le serveur et les afficher</li></ul> | 11 | - |
+| 34  | Implémenter la page   des taches d'un sprint (JS) : <ul><li>Récupérer le numero du sprint et du projet est l'envoyer au serveur</li><li>Réception de la liste des taches depuis le serveur et les afficher</li></ul> | 11 | - |
 | 35  | Implémenter la partie serveur de la page  des taches d'un sprint: <ul><li>Récupérer les champs envoyés</li><li>exécuter une requête qui prend les champs en paramètre</li><li>Retourner le résultat de la requête </li></ul> | 11 | - |
 | 36 | Création d'un composant angular pour l'ajout d'un Sprint et l'associer a une route | 9 | - |
 | 37 | Implémenter la page d'ajout d'un sprint (interface graphique)  : <ul><li>Création d'un formulaire d'ajout (numéro , date-debut, date-fin)</li></ul> | 9 | - |
-| 38  | Implémenter la page d'ajout d'un sprint (JS)  : <ul><li>Récupérer les champs du formulaire et les envoyer au serveur</li><li>Affichage d'un message si le sprint est ajouté </li></ul> | 9 | - |
+| 38  | Implémenter la page d'ajout d'un sprint (JS)  : <ul><li>Récupérer le nom du projet et l'envoyer au serveur</li><li>Récupérer les champs du formulaire et les envoyer au serveur</li><li>Affichage d'un message si le sprint est ajouté </li></ul> | 9 | - |
 | 39  | Implémenter la partie serveur de la page d'ajout d'un sprint: <ul><li>Récupérer les champs envoyés</li><li>exécuter une requête qui prend les champs en paramètre</li><li>Retourner le résultat de la requête </li></ul> | 9 | - |
 | 40  | Exécuter les tests E2E | - | - |
-| 41  | Génerer le build du premier sprint | - | - |
+| 41  | Génerer le build du deuxieme sprint | - | - |
